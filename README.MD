@@ -1,5 +1,5 @@
 # Chemist
-
+# Autores: [Lucas Neves](https://github.com/lucasnvs), [Gabriel Umann](https://github.com/gabrielumann)
 ## Descrição
 Desenvolvido para a disciplina de Química. Faz a resolução e apresenta informações sobre o Elemento do número atômico inserido.
 
